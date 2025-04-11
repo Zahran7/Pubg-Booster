@@ -11,7 +11,7 @@ A simple and effective tool to enhance your system's performance while playing P
 
 ## Installation
 
-1. **Download the Installer**: [Download PUBG Booster Installer](/PUBG_Booster_Installer.exe)
+1. **Download the Installer**: [Download PUBG Booster Installer](./PUBG_Booster_Installer.exe)
 2. **Run the Installer**: Follow the on-screen instructions to install the tool.
 3. **Desktop Shortcut**: Use the shortcut created on your desktop to launch the tool.
 
